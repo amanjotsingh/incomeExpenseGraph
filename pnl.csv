@@ -1,0 +1,122 @@
+date,amount,category,description
+01-01-2024,5000,Income,Salary
+03-01-2024,1200,Expense,Rent
+05-01-2024,150,Expense,Groceries
+10-01-2024,800,Income,Freelance Work
+12-01-2024,100,Expense,Electricity Bill
+15-01-2024,50,Expense,Internet Bill
+20-01-2024,75,Expense,Dining Out
+22-01-2024,200,Expense,Car Repair
+25-01-2024,60,Expense,Gas
+28-01-2024,500,Income,Bonus
+30-01-2024,120,Expense,Clothing
+01-02-2024,5000,Income,Salary
+03-02-2024,1200,Expense,Rent
+05-02-2024,150,Expense,Groceries
+10-02-2024,800,Income,Freelance Work
+12-02-2024,100,Expense,Electricity Bill
+15-02-2024,50,Expense,Internet Bill
+20-02-2024,75,Expense,Dining Out
+22-02-2024,200,Expense,Car Repair
+25-02-2024,60,Expense,Gas
+28-02-2024,500,Income,Bonus
+02-03-2024,5000,Income,Salary
+04-03-2024,1200,Expense,Rent
+06-03-2024,150,Expense,Groceries
+11-03-2024,800,Income,Freelance Work
+13-03-2024,100,Expense,Electricity Bill
+16-03-2024,50,Expense,Internet Bill
+21-03-2024,75,Expense,Dining Out
+23-03-2024,200,Expense,Car Repair
+26-03-2024,60,Expense,Gas
+29-03-2024,500,Income,Bonus
+01-04-2024,5000,Income,Salary
+03-04-2024,1200,Expense,Rent
+05-04-2024,150,Expense,Groceries
+10-04-2024,800,Income,Freelance Work
+12-04-2024,100,Expense,Electricity Bill
+15-04-2024,50,Expense,Internet Bill
+20-04-2024,75,Expense,Dining Out
+22-04-2024,200,Expense,Car Repair
+25-04-2024,60,Expense,Gas
+28-04-2024,500,Income,Bonus
+01-05-2024,5000,Income,Salary
+03-05-2024,1200,Expense,Rent
+05-05-2024,150,Expense,Groceries
+10-05-2024,800,Income,Freelance Work
+12-05-2024,100,Expense,Electricity Bill
+15-05-2024,50,Expense,Internet Bill
+20-05-2024,75,Expense,Dining Out
+22-05-2024,200,Expense,Car Repair
+25-05-2024,60,Expense,Gas
+28-05-2024,500,Income,Bonus
+01-06-2024,5000,Income,Salary
+03-06-2024,1200,Expense,Rent
+05-06-2024,150,Expense,Groceries
+10-06-2024,800,Income,Freelance Work
+12-06-2024,100,Expense,Electricity Bill
+15-06-2024,50,Expense,Internet Bill
+20-06-2024,75,Expense,Dining Out
+22-06-2024,200,Expense,Car Repair
+25-06-2024,60,Expense,Gas
+28-06-2024,500,Income,Bonus
+01-07-2024,5000,Income,Salary
+03-07-2024,1200,Expense,Rent
+05-07-2024,150,Expense,Groceries
+10-07-2024,800,Income,Freelance Work
+12-07-2024,100,Expense,Electricity Bill
+15-07-2024,50,Expense,Internet Bill
+20-07-2024,75,Expense,Dining Out
+22-07-2024,200,Expense,Car Repair
+25-07-2024,60,Expense,Gas
+28-07-2024,500,Income,Bonus
+01-08-2024,5000,Income,Salary
+03-08-2024,1200,Expense,Rent
+05-08-2024,150,Expense,Groceries
+10-08-2024,800,Income,Freelance Work
+12-08-2024,100,Expense,Electricity Bill
+15-08-2024,50,Expense,Internet Bill
+20-08-2024,75,Expense,Dining Out
+22-08-2024,200,Expense,Car Repair
+25-08-2024,60,Expense,Gas
+28-08-2024,500,Income,Bonus
+01-09-2024,5000,Income,Salary
+03-09-2024,1200,Expense,Rent
+05-09-2024,150,Expense,Groceries
+10-09-2024,800,Income,Freelance Work
+12-09-2024,100,Expense,Electricity Bill
+15-09-2024,50,Expense,Internet Bill
+20-09-2024,75,Expense,Dining Out
+22-09-2024,200,Expense,Car Repair
+25-09-2024,60,Expense,Gas
+28-09-2024,500,Income,Bonus
+01-10-2024,5000,Income,Salary
+03-10-2024,1200,Expense,Rent
+05-10-2024,150,Expense,Groceries
+10-10-2024,800,Income,Freelance Work
+12-10-2024,100,Expense,Electricity Bill
+15-10-2024,50,Expense,Internet Bill
+20-10-2024,75,Expense,Dining Out
+22-10-2024,200,Expense,Car Repair
+25-10-2024,60,Expense,Gas
+28-10-2024,500,Income,Bonus
+01-11-2024,5000,Income,Salary
+03-11-2024,1200,Expense,Rent
+05-11-2024,150,Expense,Groceries
+10-11-2024,800,Income,Freelance Work
+12-11-2024,100,Expense,Electricity Bill
+15-11-2024,50,Expense,Internet Bill
+20-11-2024,75,Expense,Dining Out
+22-11-2024,200,Expense,Car Repair
+25-11-2024,60,Expense,Gas
+28-11-2024,500,Income,Bonus
+01-12-2024,5000,Income,Salary
+03-12-2024,1200,Expense,Rent
+05-12-2024,150,Expense,Groceries
+10-12-2024,800,Income,Freelance Work
+12-12-2024,100,Expense,Electricity Bill
+15-12-2024,50,Expense,Internet Bill
+20-12-2024,75,Expense,Dining Out
+22-12-2024,200,Expense,Car Repair
+25-12-2024,60,Expense,Gas
+28-12-2024,500,Income,Bonus
